@@ -1,3 +1,6 @@
+Tutorial here: https://docs.passport.xyz/building-with-passport/passport-api/tutorials/requiring-a-passport-score-for-airdrop-claim#3-fetch-a-users-passport-score
+
+
 This is a [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/) project bootstrapped with [`create-rainbowkit`](/packages/create-rainbowkit).
 
 ## Getting Started
